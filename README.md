@@ -18,7 +18,7 @@ Segmentation with K-means clustering:
 
 Initially, the data is subject to important stages in an analytics pipeline: exploratory analysis, preprocessing, feature engineering and standardizaton. Then, the unsupervised classification technique, K-means clustering algorithm, is used to determine the ideal segments of customers. Silhouette analysis and related cluster visualizations are leveraged to deduce the optimum value of "K" (number of clusters) in the algorithm. The observations from the results are elaborately discussed before reaching the conclusion from the business perspective.
 
-Conclusion
+Conclusion:
 
 • K-Means Clustering with Silhouette gives the highest score of 65% for number of clusters 3.
 
